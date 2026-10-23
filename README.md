@@ -1,6 +1,6 @@
 # Intent-Based Infrastructure Provisioning — Bob Lab
 
-> Provision a production-grade cloud VSI using a single natural-language request to **Bob** (IBM watsonx Orchestrate).
+> Provision a production-grade cloud VSI using a single natural-language request to **Bob**.
 
 This lab demonstrates how an AI agent — driven by the `provision-ibm-cloud` skill — can take a plain-English request and produce a fully working, VCS-connected Terraform workspace with real cloud infrastructure at the end.
 
