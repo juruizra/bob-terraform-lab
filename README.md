@@ -1,6 +1,6 @@
 # Intent-Based Infrastructure Provisioning — Bob Lab
 
-> Provision a production-grade cloud VSI using a single natural-language request to **Bob**.
+> Provision a production-grade cloud VSI using a single natural-language request to **IBM Bob**.
 
 This lab demonstrates how an AI agent — driven by the `provision-ibm-cloud` skill — can take a plain-English request and produce a fully working, VCS-connected Terraform workspace with real cloud infrastructure at the end.
 
@@ -78,7 +78,7 @@ By the end of the lab you will have:
 | **Terraform CLI** `>= 1.9` | [developer.hashicorp.com/terraform/downloads](https://developer.hashicorp.com/terraform/downloads) | `terraform version` |
 | **tfctl** | `brew install hashicorp/tap/tfctl` | `tfctl --version` |
 | **Git** | `brew install git` | `git version` |
-| **Bob** (IBM watsonx Orchestrate) | Available in your IBM watsonx Orchestrate instance | Open a chat session |
+| **IBM Bob** | Available in your IBM Bob instance | Open a chat session |
 
 ### Accounts
 
