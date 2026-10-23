@@ -1,0 +1,4 @@
+# Exclude private keys — only .pub files are safe to commit
+*
+!.gitignore
+!*.pub
