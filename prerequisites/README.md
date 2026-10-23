@@ -20,8 +20,8 @@ Complete these steps **once** before running the lab. The lab assumes everything
 ## Step 1 — Clone the lab repository
 
 ```bash
-git clone https://github.com/<lab-repo-owner>/<lab-repo-name>.git
-cd <lab-repo-name>
+git clone https://github.com/juruizra/bob-terraform-lab.git
+cd bob-terraform-lab
 ```
 
 ---
